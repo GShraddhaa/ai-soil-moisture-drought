@@ -64,30 +64,7 @@ In the initial implementation, a Random Forest classifier is used to predict dro
 
 ---
 
-## 6. Project Structure
-
-ai-soil-moisture-drought/
-│
-├── data/
-│ ├── raw/ # Raw exported data from GEE
-│ └── processed/ # Feature tables for ML
-│
-├── notebooks/ # Exploration and prototyping
-│
-├── src/ # Data processing and model training scripts
-│
-├── models/ # Trained ML models
-│
-├── app/ # Streamlit web dashboard
-│
-├── docs/ # Documentation and results
-│
-├── requirements.txt
-└── README.md
-
----
-
-## 7. Web Application
+## 6. Web Application
 
 A Streamlit-based web dashboard provides:
 
@@ -98,13 +75,13 @@ A Streamlit-based web dashboard provides:
 
 ---
 
-## 8. Results
+## 7. Results
 
 Model performance metrics, drought classification accuracy, and regional analysis maps will be added upon completion of model training.
 
 ---
 
-## 9. Future Work
+## 8. Future Work
 
 Integration of additional climate drivers (temperature, PET, ENSO)
 
@@ -116,7 +93,7 @@ Extension to near-real-time drought monitoring
 
 ---
 
-## 10. Author
+## 9. Author
 
 Name: Shraddha Gourishetty
 Background: Geomatics, GIS, Remote Sensing
