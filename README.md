@@ -1,5 +1,3 @@
-# ai-soil-moisture-drought
-
 # AI-Based Soil Moisture & Drought Risk Prediction System
 
 This project develops a small AI system that predicts short-term soil-moisture anomalies and classifies drought risk by region using satellite-based soil moisture, rainfall, and vegetation indices. The system is designed as an end-to-end pipeline that includes geospatial data extraction, feature engineering, machine learning, and a simple interactive web dashboard.
