@@ -82,17 +82,14 @@ Model performance metrics, drought classification accuracy, and regional analysi
 ## 8. Future Work
 
 Integration of additional climate drivers (temperature, PET, ENSO)
-
 Use of time-series deep learning models
-
 Cloud deployment on Google Cloud Platform
-
 Extension to near-real-time drought monitoring
 
 ---
 
 ## 9. Author
 
-Name: Shraddha Gourishetty
-Background: Geomatics, GIS, Remote Sensing
-Focus: AI for environmental and climate applications
+- Name: Shraddha Gourishetty
+- Background: Geomatics, GIS, Remote Sensing
+- Focus: AI for environmental and climate applications
